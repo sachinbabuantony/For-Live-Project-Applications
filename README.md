@@ -8,3 +8,5 @@ Financial analysis.ipynb - Financial Data analysis of s company and answering th
 customerseg.ipynb - Customer Segmentation using K-means clustering
 
 Tweet_Emotion_Recognition_Learner.ipynb - Sentimental Analysis using tensorflow
+
+Stock_price_forcasting.ipynb - Facebook prophet to create Stock price prediction
