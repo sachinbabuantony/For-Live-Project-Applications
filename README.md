@@ -4,3 +4,4 @@ This repository contains notebooks of my personal projects that I'm submitting t
 Notebook Descriptions:
 
 Financial analysis.ipynb - Financial Data analysis of s company and answering the questions asked by management
+customerseg.ipynb - Customer Segmentation using K-means clustering
