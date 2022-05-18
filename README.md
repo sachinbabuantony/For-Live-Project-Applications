@@ -13,4 +13,4 @@ Stock_price_forcasting.ipynb - Facebook prophet to create Stock price prediction
 
 Resume_Job_Matching.ipynb - Resume checked against Job description using cosine similarity in python
 
-
+sachin_df.ipynb - Pyspark to analys clinical trial dataset with over 300 thousand rows in databricks
