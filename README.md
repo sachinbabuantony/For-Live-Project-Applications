@@ -6,3 +6,5 @@ Notebook Descriptions:
 Financial analysis.ipynb - Financial Data analysis of s company and answering the questions asked by management
 
 customerseg.ipynb - Customer Segmentation using K-means clustering
+
+Tweet_Emotion_Recognition_Learner.ipynb - Sentimental Analysis using tensorflow
